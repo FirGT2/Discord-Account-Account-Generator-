@@ -1,10 +1,10 @@
 {
   "token": "",
-  "prefix": "$",
+  "prefix": "a!",
   "allowedRoles": [
     "Gen Access"
   ],
   "allowedChannels": [
-    "channel id here" 
+    "1074174021622571109" 
   ]
 }
